@@ -10,4 +10,11 @@ Give an LLM a job posting, get out a pain point and service offering that that w
 3. Create .env file
     - `touch .env`
     - Add `ANTHROPIC_API_KEY=api_key`
-4. 
+4. Run script
+    - `python simple.py`
+
+
+If you're looking to follow along, find the tutorial here ->
+
+Find the tutorial here: https://youtu.be/vpOaBUNmDjQ
+
